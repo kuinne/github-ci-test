@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn Github CI3
+          Learn Github CI4
         </a>
       </header>
     </div>
